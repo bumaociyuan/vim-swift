@@ -1,2 +1,8 @@
-# vim-swift
-https://github.com/apple/swift/tree/master/utils/vim
+# Install
+
+
+Install the plugin as you would this plugin (Vundle example):
+
+```
+Plugin 'bumaociyuan/vim-swift'
+```
